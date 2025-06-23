@@ -11,7 +11,7 @@ This project aims to predict students’ academic performance based on their bac
       - Parental Occupation: Students whose mothers are homemakers ("at_home") tend to perform worse than those whose mothers work in the health sector.
       - Student Intentions: Those planning to pursue higher education generally perform better.
       - Living Environment: Urban-living students typically achieve higher average G3 grades than their rural counterparts.
-![fig3](images/fig3)
+![fig3](images/Fig3)
 
     4. As shown in Figure 4, early academic performance (G1 and G2) is highly predictive of final grades (G3). Conversely, students with more past academic failures tend to perform worse.
 
