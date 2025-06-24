@@ -1,4 +1,4 @@
-This project aims to predict students’ academic performance based on their background attributes using various machine learning models, including Linear Regression, Random Forest, Multi-Layer Perceptron (MLP), XGBoost, and a Voting ensemble. The work is divided into two primary stages: Exploratory Data Analysis (EDA) and Model Development.
+This project aims to predict students’ academic performance based on their background attributes using various machine learning models, including Linear Regression, Random Forest, Multi-Layer Perceptron (MLP), XGBoost, and a Voting ensemble. Dataset is from Kaggle, [Student Performance Dataset](https://www.kaggle.com/datasets/devansodariya/student-performance-data/data). The work is divided into two primary stages: Exploratory Data Analysis (EDA) and Model Development.
 
 ## Exploratory Data Analysis
 *   **Programming Concepts**<br>
